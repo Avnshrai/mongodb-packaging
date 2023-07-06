@@ -1,0 +1,23 @@
+annotations:
+  category: Infrastructure
+  licenses: Apache-2.0
+apiVersion: v2
+appVersion: 2.4.0
+description: A Library Helm Chart for grouping common logic between coredge charts.
+  This chart is not deployable by itself.
+home: https://coredge.com
+icon: https://coredge.com/downloads/logos/coredge-mark.png
+keywords:
+- common
+- helper
+- template
+- function
+- coredge
+maintainers:
+- name: VMware, Inc.
+  url: https://github.com/coredge/charts
+name: common
+sources:
+- https://github.com/coredge/charts
+type: library
+version: 2.4.0
